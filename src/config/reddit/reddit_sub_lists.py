@@ -10,7 +10,7 @@
 
 # The bot will only use the subs defined in this list
 # if this list is empty it will choose subreddits randomly
-REDDIT_APPROVED_SUBS = [
+REDDIT_APPROVED_SUBS = [ "pics", "memes", "funny", "worldnews", "gaming", "gameofthrones", "AskReddit", "AskMen"
 ]
 
 # array of arrays with subreddits
